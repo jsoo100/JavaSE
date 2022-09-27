@@ -1,4 +1,4 @@
-package day01.basic;
+package Day02.basic;
 
 /*[[ 연산자 ]]
  * 1. 산술연산자
@@ -6,7 +6,7 @@ package day01.basic;
  * 
  * 
  */
-public class MainClass08 {
+public class MainClass01 {
 
 	public static void main(String[] args) {
 			int num1 = 10;
